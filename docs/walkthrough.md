@@ -1965,7 +1965,8 @@ Following the guidance, I:
 ```
 
 3. **Key Learning Points:**
-Regarding NUnit testing I experienced the 'circular dependancy' issue to which I recieved guidance from both my lecturers, I larnt after referring to the official documentation that:
+
+Regarding NUnit testing I experienced the 'circular dependancy' issue to which I recieved guidance from both of my lecturers, I learnt after referring to the official documentation that:
    - Test projects should reference the class library, not the main application
    - Circular dependencies occur when projects reference each other inappropriately
    - Official documentation provides authoritative guidance for project structure
@@ -2004,12 +2005,6 @@ This walkthrough demonstrates comprehensive understanding and practical implemen
 - **Practical Application**: Real-world implementation in working code
 - **Design Decisions**: Justified choices with alternative approaches considered
 - **Code Quality**: Professional standards with comprehensive documentation
-
-### Educational Value
-- **Progressive Learning**: Topics build upon each other logically
-- **Best Practices**: Industry-standard approaches demonstrated throughout
-- **Problem Solving**: Real challenges encountered and resolved
-- **Continuous Improvement**: Ongoing refinement based on feedback and testing
 
 ### Professional Development
 - **Documentation Standards**: Comprehensive code and project documentation
